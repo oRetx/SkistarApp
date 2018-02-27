@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/ic_navigation_today"
+        android:title="@string/title_today" />
+
+    <item
+        android:id="@+id/navigation_week"
+        android:icon="@drawable/ic_navigation_week"
+        android:title="@string/title_week" />
+
+    <item
+        android:id="@+id/navigation_season"
+        android:icon="@drawable/ic_navigation_season"
+        android:title="@string/title_season" />
+    <item
+        android:id="@+id/navigation_total"
+        android:icon="@drawable/ic_skier"
+        android:title="@string/title_total" />
+
+</menu>

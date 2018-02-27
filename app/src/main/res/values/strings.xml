@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Skistar App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="enter_something_to_send">Enter something to send</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="button">Button.....     XXX</string>
+    <string name="i_will_hide_something">I will hide something</string>
+    <string name="title_activity_bottom_navigation">Skistar</string>
+    <string name="title_today">Today</string>
+    <string name="title_week">Week</string>
+    <string name="title_season">Season</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="next_button">Next</string>
+    <plurals name="days_count">
+        <item quantity="one">%d dag.</item>
+        <item quantity="other">%d dagar.</item>
+    </plurals>
+    <string-array name="days">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+    </string-array>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="channel_name">Default channel</string>
+    <string name="channel_description">Default channel for normal notifications sent from the application.</string>
+    <string name="supermario">Mario</string>
+    <string name="get_summary">Get summary:</string>
+    <string name="drop_height">Drop height:</string>
+    <string name="lift_rides">Lift rides:</string>
+    <string name="how_many_friends">How many friends?</string>
+    <string name="action_playsnake">Snake</string>
+    <string name="dropHeight" translatable="false">%d m</string>
+    <string name="preferences_automatic_updates_title">Automatic updates</string>
+    <string name="settings_title">Settings</string>
+    <string name="title_total">Total</string>
+    <string name="textViewDescriptionSeason">Season</string>
+    <string name="textViewDescriptionWeek">Week</string>
+    <string name="textViewDescription">Season</string>
+    <string name="preference_file_key">PreferenceKey</string>
+    <string name="preferences_skier_id">Skier ID</string>
+    <string name="preferences_season">Season</string>
+    <string name="preferences_season_id_pref">Api specific season identifier</string>
+    <string name="preferences_skier_id_pref">SkierId %s used for API access</string>
+    <string name="preferences_update_interval_pref">%s min</string>
+    <plurals name="liftCount">
+        <item quantity="zero">%d lifts</item>
+        <item quantity="one">%d lift</item>
+        <item quantity="other">%d lifts</item>
+    </plurals>
+    <plurals name="liftRides">
+        <item quantity="zero">%d rides</item>
+        <item quantity="one">%d ride</item>
+        <item quantity="other">%d rides</item>
+    </plurals>
+</resources>

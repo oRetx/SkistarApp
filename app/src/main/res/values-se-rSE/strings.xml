@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skistar App</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="enter_something_to_send">Lägg till något att skicka</string>
+    <string name="first_name">Förnamn:</string>
+    <string name="last_name">Efternamn:</string>
+    <string name="title_today">Idag</string>
+    <string name="title_week">Vecka</string>
+    <string name="title_season">Säsong</string>
+    <string name="get_summary">Hämta sammanfattning:</string>
+    <string name="drop_height">Fallhöjd:</string>
+    <string name="lift_rides">Lift åk:</string>
+    <string name="preferences_automatic_updates_title">Automatiska uppdateringar</string>
+    <string name="settings_title">Inställningar</string>
+    <string name="title_total">Totalt</string>
+    <string name="textViewDescriptionSeason">Säsong</string>
+    <string name="textViewDescriptionWeek">Vecka</string>
+    <string name="textViewDescription">Säsong</string>
+</resources>

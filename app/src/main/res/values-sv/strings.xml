@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skistar App</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="enter_something_to_send">Lägg till något att skicka</string>
+    <string name="first_name">Förnamn:</string>
+    <string name="last_name">Efternamn:</string>
+    <string name="title_today">Idag</string>
+    <string name="title_week">Vecka</string>
+    <string name="title_season">Säsong</string>
+    <string name="get_summary">Hämta sammanfattning:</string>
+    <string name="drop_height">Fallhöjd:</string>
+    <string name="lift_rides">Lift åk:</string>
+    <string name="preferences_automatic_updates_title">Automatiska uppdateringar</string>
+    <string name="preferences_update_interval">Uppdaterings intervall</string>
+    <string name="preferences_season">Säsong</string>
+    <string name="preferences_season_id_pref">Api specifik säsongs identifierare</string>
+    <string name="preferences_skier_id_pref">ÅkarID %s änvadäns för API åtkomst</string>
+    <string name="preferences_update_interval_pref">%s min</string>
+    <string name="preferences_skier_id">Åkar ID</string>
+    <string name="settings_title">Inställningar</string>
+    <string name="title_total">Totalt</string>
+    <string name="textViewDescriptionSeason">Säsong</string>
+    <string name="textViewDescriptionWeek">Vecka</string>
+    <string name="title_item_list">Objekt</string>
+    <string name="title_item_detail">Objekt detalj</string>
+    <plurals name="liftCount">
+        <item quantity="zero">%d liftar</item>
+        <item quantity="one">%d lift</item>
+        <item quantity="other">%d liftar</item>
+    </plurals>
+    <plurals name="liftRides">
+        <item quantity="zero">%d åk</item>
+        <item quantity="one">%d åk</item>
+        <item quantity="other">%d åk</item>
+    </plurals>
+</resources>
